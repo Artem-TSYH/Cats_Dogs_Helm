@@ -1,0 +1,16 @@
+apiVersion      : v1
+name            : catsdogs-HelmChart
+description     : Cats Vs Dogs
+type            : application
+version         : 0.0.1
+appVersion      : 1.2.3
+
+keywords:
+  - cats
+  - dogs
+  - artemtsyhanenko
+
+maintainers:
+  - name: Artem Tsyhanenko
+    email: artem.tsyhanenko@computacenter.com
+    url: https://www.computacenter.com/
